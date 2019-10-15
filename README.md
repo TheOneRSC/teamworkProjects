@@ -24,6 +24,6 @@ In the end, teams with zero members (with only a creator) should disband and we 
 
 "{teamName}:
 
-- {creator}
+-{creator}
 
 -- {member}"
